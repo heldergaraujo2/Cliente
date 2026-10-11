@@ -1,0 +1,4 @@
+PS GAMEGUARD 1.0.3.9 [Main.exe] - 06/12/2025 14:39:42 > Driver protection failure (0x0), Step (0)
+>
+PS GAMEGUARD 1.0.3.9 [Main.exe] - 06/12/2025 17:48:30 > Driver protection failure (0x0), Step (0)
+>

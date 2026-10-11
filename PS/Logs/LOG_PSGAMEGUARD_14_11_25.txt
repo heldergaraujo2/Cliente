@@ -1,0 +1,10 @@
+PS GAMEGUARD 1.0.3.9 [Main.exe] - 14/11/2025 01:19:35 > Driver protection failure (0x0), Step (0)
+>
+PS GAMEGUARD 1.0.3.9 [Main.exe] - 14/11/2025 01:20:08 > Erro (Socket Error # 10061
+Connection refused.) ao estabelecer conexão com o PS, tente novamente mais tarde!
+PS GAMEGUARD 1.0.3.8 [Main.exe] - 14/11/2025 01:22:38 > [Error] SendIpcData - Failed to Open Server Mailslot (2)!
+>
+PS GAMEGUARD 1.0.3.9 [Main.exe] - 14/11/2025 04:41:51 > Driver protection failure (0x0), Step (0)
+>
+PS GAMEGUARD 1.0.3.8 [Main.exe] - 14/11/2025 04:41:51 > [Error] SendIpcData - Failed to Open Server Mailslot (2)!
+>

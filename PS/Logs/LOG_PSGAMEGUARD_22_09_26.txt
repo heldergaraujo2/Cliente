@@ -1,0 +1,2 @@
+PS GAMEGUARD 1.0.3.9 [Main.exe] - 22/09/2026 09:37:26 > Driver protection failure (0x0), Step (0)
+>

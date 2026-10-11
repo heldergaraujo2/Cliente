@@ -1,0 +1,4 @@
+PS GAMEGUARD 1.0.3.9 [Main.exe] - 24/11/2025 21:13:45 > Driver protection failure (0x0), Step (0)
+>
+PS GAMEGUARD 1.0.3.9 [Main.exe] - 24/11/2025 21:14:19 > Erro (Socket Error # 10061
+Connection refused.) ao estabelecer conexão com o PS, tente novamente mais tarde!

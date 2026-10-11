@@ -1,0 +1,4 @@
+PS GAMEGUARD 1.0.3.9 [Main.exe] - 20/12/2025 12:24:26 > Driver protection failure (0x0), Step (0)
+>
+PS GAMEGUARD 1.0.3.8 [Main.exe] - 20/12/2025 12:24:27 > [Error] SendIpcData - Failed to Open Server Mailslot (2)!
+>

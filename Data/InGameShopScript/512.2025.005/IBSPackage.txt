@@ -1,0 +1,68 @@
+31@1@100@Magic Backpack@170@1000@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1000|@7330@2@1@1000|@0@508@669@0
+31@2@129@Talisman of Chaos Assembly@170@300@Previne que itens suma na evolu?ao de +10 a +15@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@1290|@7264@2@1@1290|@0@508@669@0
+31@3@126@Talisman of Resurrection@170@25@Ao morrer basta consumir este item que voce renasce no memso lugar! # #OBS: o item deve ser consumido no momento entre a morte e o renascimento na safe zone para funcionar e retornar para o local da morte!@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1260|@6725@2@1@1260|@0@508@669@0
+31@4@148@Devil Square Ticket@170@250@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1480|@6702@2@1@1480|@0@508@669@0
+31@5@149@Blood Castle Ticket@170@250@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1490|@6703@2@1@1490|@0@508@669@0
+31@6@150@Kalima Ticket@170@250@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1500|@6704@2@1@1500|@0@508@669@0
+31@7@167@Jewel Of Level@170@300@Utilizavel apenas em ring e pendant@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@1670|@7421@2@1@1670|@0@508@669@0
+31@8@169@Jewel Of Excelent@170@300@Adiciona 1 add Excelentent ALEATORIO@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@1690|@7416@2@1@1690|@0@508@669@0
+31@9@162@Talisman of Luck@170@100@Previne que itens suma na evolu?ao de +10 a +15@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@1620|@7221@2@1@1620|@0@508@669@0
+32@1@131@Small Wings of Satan@170@700@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1310|@6278@2@3@1310|1311|1312|@0@508@669@0
+32@2@134@Small Wings of Heaven@170@700@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1340|@6277@2@3@1340|1341|1342|@0@508@669@0
+32@3@135@Small Wings of Elf@170@700@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1350|@6276@2@3@1350|1351|1352|@0@508@669@0
+32@4@136@Small Wing of Curse@170@700@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1360|@6275@2@3@1360|1361|1362|@0@508@669@0
+32@5@137@Small Cape of Lord@170@700@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1370|@6274@2@3@1370|1371|1372|@0@508@669@0
+32@6@138@Little Warrior's Cloak@170@700@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1380|@6279@2@3@1380|1381|1382|@0@508@669@0
+33@1@151@Pacotao Full XP 15 dias@170@2200@Bundle Includes:  #* Pet Panda (15 Days)  #* Seal of Healing (15 Days)  #* Seal of Ascension (15 Days)  #* Pet Skeleton (15 Days)  #* Seal of Wealth (15 Days)@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@10003|10002|10000|10005|10001|@7302@2@1@@0@508@669@0
+33@2@152@Pacotao Full Buff Stength 7 dias@170@1000@Bundle Includes:   #* Scroll of Defense (7 Days)   #* Scroll of Wrath (7 Days)   #* Scroll of Health (7 Days)   #* Scroll of Quickness (7 Days)   #* Scroll of Strength (7 Days)   #* Scroll of Battle (7 Days)@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1030|1040|1060|1020|1150|1140|@7302@2@1@@0@508@669@0
+33@3@153@Pacotao Full Buff Wizard 7 dias@170@1000@Bundle Includes:   #* Scroll of Defense (7 Days)   #* Scroll of Wrath (7 Days)   #* Scroll of Wizardry (7 Days)   #* Scroll of Health (7 Days)   #* Scroll of Quickness (7 Days)   #* Scroll of Mana (7 Days)@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1030|1040|1050|1060|1020|1130|@7302@2@1@@0@508@669@0
+33@4@157@Pacotao Full XP 30 dias@170@4000@Bundle Includes:  #* Pet Panda (30 Days)  #* Pet Skeleton (30 Days)  #* Seal of Healing (30 Days)  #* Seal of Wealth (30 Days)  #* Seal of Ascension (30 Days)@@182@185@0@0@177@1@WCoinC@WCoinC@181@200@0@10010|10009|10008|10007|10006|@7302@2@1@@0@508@669@0
+34@1@102@Scroll of Quickness@170@250@Aumenta a velocidade de ataque@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1020|@7240@2@3@1020|1021|1022|@0@508@669@0
+34@2@103@Scroll of Defense@170@250@Aumenta a taxa de defesa@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1030|@7241@2@3@1030|1031|1032|@0@508@669@0
+34@3@104@Scroll of Wrath@170@250@Aumenta o poder de ataque@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1040|@7242@2@3@1040|1041|1042|@0@508@669@0
+34@4@105@Scroll of Wizardry@170@250@Aumenta a magia@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1050|@7243@2@3@1050|1051|1052|@0@508@669@0
+34@5@106@Scroll of Health@170@250@Aumenta a vida@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1060|@7244@2@3@1060|1061|1062|@0@508@669@0
+34@6@107@Scroll of Mana@170@250@Aumenta a mana@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1070|@7245@2@3@1070|1071|1072|@0@508@669@0
+34@7@116@Scroll of Battle@170@250@Aumenta dano critico@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1160|@7265@2@3@1160|1161|1162|@0@508@669@0
+34@8@117@Scroll of Strength@170@250@Aumenta dano excelente@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1170|@7266@2@3@1170|1171|1172|@0@508@669@0
+35@1@145@Seal of Wealth@170@250@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1450|@6700@2@3@1450|1451|1452|@0@508@669@0
+35@2@119@Seal of Healing@170@250@Aumenta xp em 100%  #Aumenta drop 50%@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1190|@6718@2@3@1190|1191|1192|@0@508@669@0
+35@3@120@Seal of Ascension@170@250@Aumenta xp em 100%  #Aumenta drop 50%@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1200|@6699@2@3@1200|1201|1202|@0@508@669@0
+35@4@121@Master Seal of Wealth@170@250@Aumenta xp em 100%  #Aumenta drop 50%@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1210|@6750@2@3@1210|1211|1212|@0@508@669@0
+35@5@122@Master Seal of Ascension@170@250@Aumenta xp em 100%  #Aumenta drop 50%@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1220|@6749@2@3@1220|1221|1222|@0@508@669@0
+35@6@146@Max AG Boost Aura@170@1000@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1460|@6760@2@2@1460|1461|@0@508@669@0
+35@7@147@Max SD Boost Aura@170@1000@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1470|@6761@2@3@1470|1471|1472|@0@508@669@0
+37@1@123@Demon@170@250@Aumenta o dano, magia e maldi?ao em 40%@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1230|@6720@2@3@1230|1231|1232|@0@508@669@0
+37@2@124@Spirit of Guardian@170@250@Reduz o dano em 30%@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1240|@6721@2@3@1240|1241|1242|@0@508@669@0
+37@3@101@Pet Panda@170@350@Coleta zen automaticamente   #Aumenta xp  em 50%   #Aumenta defesa em +50@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1010|@6918@2@3@1010|1011|1012|@0@508@669@0
+37@4@127@Pet Skeleton@170@450@Aumenta xp em 30%    #Aumenta dano em 20%    #Aumenta velocidade de ataque em 10    #@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1270|@6779@2@3@1270|1271|1272|@0@508@669@0
+37@5@128@Luki@170@200@Chance de dano excelente 5%  #Chance de Refletir o dano 5%@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1280|@6860@2@3@1280|1281|1282|@0@508@669@0
+37@6@158@William@170@300@Chance de Reduzir dano 5% #Refletir Dano 5%@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1580|@6862@2@3@1580|1581|1582|@0@508@669@0
+37@7@159@Pumpkin@170@300@Aumenta a velocidade de Ataque em +60@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1590|@6909@2@3@1590|1591|1592|@0@508@669@0
+37@8@160@Mummified Boy@170@300@Aumenta a defesa em 120@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1600|@6915@2@3@1600|1601|1602|@0@508@669@0
+37@9@161@Dotto@170@300@Aumenta a Experiencia em 10%@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1610|@6934@2@3@1610|1611|1612|@0@508@669@0
+61@1@118@Pet Panda@170@10000@Coleta zen automaticamente #Aumenta xp  em 50% #Aumenta defesa em +50@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1180|@6918@5@3@1180|1181|1182|@1@0@669@0
+61@2@125@Demon@170@2500@Aumenta o dano, magia e maldi?ao em 40%@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1250|@6720@5@3@1250|1251|1252|@1@0@669@0
+61@3@130@Spirit of Guardian@170@2500@Reduz o dano em 30%@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1300|@6721@5@3@1300|1301|1302|@1@0@669@0
+61@4@132@Luki@170@3500@Chance de dano excelente 5%   #Chance de Refletir o dano 5%@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1320|@6860@5@3@1320|1321|1322|@1@0@669@0
+61@5@133@Pet Skeleton@170@3500@Aumenta xp em 30%   #Aumenta dano em 20%   #Aumenta velocidade de ataque em 10   #@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1330|@6779@5@3@1330|1331|1332|@1@0@669@0
+61@6@154@Devil Square Ticket@170@2000@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1540|@6702@5@1@1540|@1@0@669@0
+61@7@155@Blood Castle Ticket@170@2000@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1550|@6703@5@1@1550|@1@0@669@0
+61@8@156@Kalima Ticket@170@2000@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1560|@6704@5@1@1560|@1@0@669@0
+62@1@108@Scroll of Quickness@170@1000@Aumenta a velocidade de ataque@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1080|@7240@5@3@1080|1081|1082|@1@0@669@0
+62@2@109@Scroll of Defense@170@1000@Aumenta a taxa de defesa@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1090|@7241@5@3@1090|1091|1092|@1@0@669@0
+62@3@110@Scroll of Wrath@170@1000@Aumenta poder de ataque@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1100|@7242@5@3@1100|1101|1102|@1@0@669@0
+62@4@111@Scroll of Wizardry@170@1000@Aumenta a magia@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1110|@7243@5@3@1110|1111|1112|@1@0@669@0
+62@5@112@Scroll of Health@170@1000@Aumenta a vida@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1120|@7244@5@3@1120|1121|1122|@1@0@669@0
+62@6@113@Scroll of Mana@170@1000@Aumenta a mana@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1130|@7245@5@3@1130|1131|1132|@1@0@669@0
+62@7@114@Scroll of Battle@170@1000@Aumenta dano critico@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1140|@7265@5@3@1140|1141|1142|@1@0@669@0
+62@8@115@Scroll of Strength@170@1000@Aumenta dano excelente@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1150|@7266@5@3@1150|1151|1152|@1@0@669@0
+63@1@139@Small Wings of Satan@170@2000@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1390|@6278@5@3@1390|1391|1392|@1@0@669@0
+63@2@140@Small Wings of Heaven@170@2000@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1400|@6277@5@3@1400|1401|1402|@1@0@669@0
+63@3@141@Small Wings of Elf@170@2000@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1410|@6276@5@3@1410|1411|1412|@1@0@669@0
+63@4@142@Small Wing of Curse@170@2000@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1420|@6275@5@3@1420|1421|1422|@1@0@669@0
+63@5@143@Small Cape of Lord@170@2000@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1430|@6274@5@3@1430|1431|1432|@1@0@669@0
+63@6@144@Little Warrior's Cloak@170@2000@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1440|@6279@5@3@1440|1441|1442|@1@0@669@0
+73@1@185@Saffe Box@170@2000@50% - Chance de dropar - Box GM"                #24% - Chance de dropar  - 4 Ingredientes asa 2.5"  #24% - Chance de dropar - Buff"           #2% - Chance de dropar - Pet ou joia evo pet"    #@@182@185@0@0@177@1@WCoinP@WCoinP@181@200@0@1850|@7668@3@1@1850|@0@509@669@0
+73@2@186@380 Case@170@20@Drop de itens 380@@182@185@0@0@177@1@WCoinP@WCoinP@181@200@0@1860|@7312@3@1@1860|@0@509@669@0
+73@3@187@Shining Jewelry Case@170@100@Drop joias especiais@@182@185@0@0@177@1@WCoinP@WCoinP@181@200@0@1870|@7309@3@1@1870|@0@509@669@0

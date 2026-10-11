@@ -1,0 +1,4 @@
+PS GAMEGUARD 1.0.3.9 [Main.exe] - 11/09/2026 17:21:37 > Driver protection failure (0x0), Step (0)
+>
+PS GAMEGUARD 1.0.3.9 [Main.exe] - 11/09/2026 17:28:54 > File License.ps corrupted, reinstall the client!
+PS GAMEGUARD 1.0.3.9 [Main.exe] - 11/09/2026 17:28:54 > File License.ps corrupted, reinstall the client!
